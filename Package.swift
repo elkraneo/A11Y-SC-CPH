@@ -12,13 +12,13 @@ let package = Package(
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "A11Y-SC-NYC",
-            targets: ["A11Y-SC-NYC"]
+            name: "A11Y-SC-CPH",
+            targets: ["A11Y-SC-CPH"]
         )
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
-        .target(name: "A11Y-SC-NYC")
+        .target(name: "A11Y-SC-CPH")
     ]
 )
