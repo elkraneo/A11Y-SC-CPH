@@ -1,5 +1,5 @@
 @Tutorial(time: 30, projectFiles: "HelloWurst-P1.zip") {
-  @XcodeRequirement(title: "Xcode 15", destination: "https://developer.apple.com/download/applications/")
+  @XcodeRequirement(title: "Xcode 15.1 beta", destination: "https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_15.1_beta/Xcode_15.1_beta.xip")
   
   @Intro(title: "Adopting visionOS") {
     Some things don't feel right, so you should follow your intuition and combine it with some guidelines.
